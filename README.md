@@ -19,8 +19,7 @@ Working with electronics can be difficult if you don't know where to start, so, 
 ### IMPORTANT SAFETY NOTE:
 Sometimes, you should be afraid of working with circuits. The right amount of fear is the amount of fear that keeps you following the best practices to building circuits safely. Electricity can be dangerous across a wide range of voltages, currents, and frequencies, and not taking proper care can result in injury or death. For basic low-power work, staying safe can be as simple as wearing rubber-soled shoes and safety glasses, and only working with unpowered and discharged circuitry. For more complicated applications, staying safe requires proportionally complicated precautions. This is not meant to be a complete guide to safety, and nothing said here should be taken as an adequate replacement for the safety advice given by the experts in the field. This includes safety advice such as that found in the [IEEE National Electrical Safety Code](https://store.accuristech.com/standards/ieee-c2-2023?product_id=2254672) (~$230 as of writing), the [OSHA Electrical Safety Standards](https://www.osha.gov/electrical) (The bare-minimum to be safe. Further precautions are advised), or your local safety professionals, such as your local fire department or a local licensed electrician.
 
-With that out of the way, below is a compiled list of the best sources for learning the basics of electronics and electricity that I've been able to find:
-
+### RESOURCES:
 + [An extremely basic online circuit simulator. If you want to test basic circuits, this will help.](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html)
 + [A more complicated but also more powerful circuit simulator](https://www.circuitlab.com/)
 + [A free and in-depth guide to the fundamentals underlying electronics](https://www.learningelectronics.net/)
