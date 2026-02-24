@@ -21,10 +21,10 @@ Sometimes, you should be afraid of working with circuits. The right amount of fe
 
 With that out of the way, below is a compiled list of the best sources for learning the basics of electronics and electricity that I've been able to find:
 
-[An extremely basic online circuit simulator. If you want to test basic circuits, this will help.](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html)
-[A more complicated but also more powerful circuit simulator](https://www.circuitlab.com/)
-[A free and in-depth guide to the fundamentals underlying electronics](https://www.learningelectronics.net/)
-kahn Academy also has an [excellent course](https://en.khanacademy.org/science/electrical-engineering) on Electrical Engineering fundamentals, which I can personally attest is a great course for those who want to design **low-power** devices **and** get an understanding of the fundamentals of electricity.
++ [An extremely basic online circuit simulator. If you want to test basic circuits, this will help.](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html)
++ [A more complicated but also more powerful circuit simulator](https://www.circuitlab.com/)
++ [A free and in-depth guide to the fundamentals underlying electronics](https://www.learningelectronics.net/)
++ kahn Academy also has an [excellent course](https://en.khanacademy.org/science/electrical-engineering) on Electrical Engineering fundamentals, which I can personally attest is a great course for those who want to design **low-power** devices **and** get an understanding of the fundamentals of electricity.
 
 
 ## BASIC QUESTIONS FOR MAKING BETTER PROTOTYPES###
