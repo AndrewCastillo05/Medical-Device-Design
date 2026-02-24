@@ -31,14 +31,14 @@ When making functional prototypes, knowing what questions to ask can be difficul
 
 1. Who is the device for? Be as specific as possible.
 2. What is the intended use of the device?
-  - What is the intended use environment?
+   - What is the intended use environment?
 3. What are the Inputs?
-  1. How are the Inputs collected?
-    1. If inputs are taken via sensor, what are the measured variables?
-    2. If inputs are taken directly, via keyboard or code, what are the input options?
-  2. How do you make sure the values are valid?
+   1. How are the Inputs collected?
+      1. If inputs are taken via sensor, what are the measured variables?
+      2. If inputs are taken directly, via keyboard or code, what are the input options?
+   2. How do you make sure the values are valid?
 4. What processing steps are being taken before the device outputs?
-  - How are these steps being done?
+   - How are these steps being done?
 5. What are the outputs?
     1. How can I see the output data?
     2. How can the end-user see the output data?
