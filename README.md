@@ -26,7 +26,7 @@ Sometimes, you should be afraid of working with circuits. The right amount of fe
 + kahn Academy also has an [excellent course](https://en.khanacademy.org/science/electrical-engineering) on Electrical Engineering fundamentals, which I can personally attest is a great course for those who want to design **low-power** devices **and** get an understanding of the fundamentals of electricity.
 
 
-## BASIC QUESTIONS FOR MAKING BETTER PROTOTYPES###
+## BASIC QUESTIONS FOR MAKING BETTER PROTOTYPES
 When making functional prototypes, knowing what questions to ask can be difficult. This list is meant to help avoid that:
 
 1. Who is the device for? Be as specific as possible.
